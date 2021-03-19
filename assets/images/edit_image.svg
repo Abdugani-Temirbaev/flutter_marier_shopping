@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profil_Edit" transform="translate(-39.000000, -39.000000)">
+            <g id="Group" transform="translate(40.000000, 40.000000)">
+                <circle id="Oval" stroke="#EEEEEE" fill="#FFFFFF" cx="10" cy="10" r="10"></circle>
+                <g transform="translate(5.000000, 5.000000)" id="FeatherIconSet/Feather_Controls/edit" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+                    <g id="edit" transform="translate(0.833333, 0.416667)">
+                        <path d="M3.75,1.25 L0.833333333,1.25 C0.373096042,1.25 0,1.62309604 0,2.08333333 L0,7.91666667 C0,8.37690396 0.373096042,8.75 0.833333333,8.75 L6.66666667,8.75 C7.12690396,8.75 7.5,8.37690396 7.5,7.91666667 L7.5,5" id="Path"></path>
+                        <path d="M6.875,0.625 C7.22017797,0.279822044 7.77982202,0.27982205 8.12499999,0.625000013 C8.47017795,0.970177977 8.47017796,1.52982203 8.125,1.875 L4.16666667,5.83333333 L2.5,6.25 L2.91666667,4.58333333 L6.875,0.625 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
