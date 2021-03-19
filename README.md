@@ -1,6 +1,7 @@
 # marier_shoping
 
-A new Flutter application.
+A new Flutter application, Without any business login.
+Design based on [UI Kit for Shopping Sketch Resource](https://www.sketchappsources.com/free-source/4675-marier-shopping-ui-kit-ebizmirli-sketch-freebie-resource.html)
 
 ## Getting Started
 
